@@ -8,7 +8,7 @@
   "is_contrib": true,
   "_links": {
     "repository": "github.com/CHAPTER-THREE-COMPANY/symfony-recipes",
-    "origin_template": "ChapterThree.private-bundle:1.0@github.com/CHAPTER-THREE-COMPANY/symfony-recipes:main",
-    "recipe_template": "https://api.github.com/repos/CHAPTER-THREE-COMPANY/symfony-recipes/contents/ChapterThree.private-bundle.1.0.json"
+    "origin_template": "{package}:{version}@github.com/CHAPTER-THREE-COMPANY/symfony-recipes:main",
+    "recipe_template": "https://api.github.com/repos/CHAPTER-THREE-COMPANY/symfony-recipes/contents/{package_dotted}.{version}.json"
   }
 }
