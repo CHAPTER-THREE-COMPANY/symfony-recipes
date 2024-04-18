@@ -1,6 +1,6 @@
 {
   "manifests": {
-    "ChapterThree/StislaTwigBundle": {
+    "chapter-three-company/stisla-twig": {
       "manifest": {
         "copy-from-recipe": {
           "Resources/config/": "%CONFIG_DIR%"
