@@ -9,6 +9,7 @@
   "_links": {
     "repository": "github.com/CHAPTER-THREE-COMPANY/symfony-recipes",
     "origin_template": "{package}:{version}@github.com/CHAPTER-THREE-COMPANY/symfony-recipes:main",
-    "recipe_template": "https://raw.githubusercontent.com/CHAPTER-THREE-COMPANY/symfony-recipes/main/{package_dotted}.{version}.json"
+    "recipe_template": "https://raw.githubusercontent.com/CHAPTER-THREE-COMPANY/symfony-recipes/main/{package_dotted}.{version}.json",
+    "recipe_template_relative": "{package_dotted}.{version}.json"
   }
 }
