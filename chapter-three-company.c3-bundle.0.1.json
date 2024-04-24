@@ -6,9 +6,6 @@
                     "ChapterThree\\C3Bundle\\C3Bundle": [
                         "all"
                     ]
-                },
-                "copy-from-recipe": {
-                    "Resources/config/": "%CONFIG_DIR%"
                 }
             },
             "files": {
