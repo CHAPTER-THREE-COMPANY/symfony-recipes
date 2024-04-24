@@ -1,9 +1,9 @@
 {
-  "manifests": {
-      "chapter-three-company/c3-bundle": {
-          "manifest": {
-              "bundles": {
-                  "ChapterThree\\C3Bundle\\C3Bundle": [
+    "manifests": {
+        "chapter-three-company/c3-bundle": {
+            "manifest": {
+                "bundles": {
+                    "ChapterThree\\C3Bundle\\C3Bundle": [
                         "all"
                     ]
                 },
