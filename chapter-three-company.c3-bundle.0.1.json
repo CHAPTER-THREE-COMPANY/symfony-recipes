@@ -9,10 +9,10 @@
                 }
             },
             "files": {
-                "config/packages/acme_private.yaml": {
+                "config/packages/chapter-three.yaml": {
                     "contents": [
-                        "acme_private:",
-                        "    encode: true",
+                        "parameters:",
+                        "    timezone: '%env(APP_TIMEZONE)%'",
                         ""
                     ],
                     "executable": false
