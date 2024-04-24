@@ -4,7 +4,7 @@
             "manifest": {
                 "bundles": {
                     "ChapterThree\\C3Bundle\\C3Bundle": [
-                        "all"
+                        "dev"
                     ]
                 },
                 "copy-from-recipe": {
